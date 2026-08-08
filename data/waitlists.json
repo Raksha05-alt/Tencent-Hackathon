@@ -1,0 +1,137 @@
+[
+ {
+  "memberId": "M-003",
+  "programmeId": "P-02",
+  "addedDate": "2026-04-03"
+ },
+ {
+  "memberId": "M-009",
+  "programmeId": "P-02",
+  "addedDate": "2026-04-09"
+ },
+ {
+  "memberId": "M-016",
+  "programmeId": "P-02",
+  "addedDate": "2026-04-15"
+ },
+ {
+  "memberId": "M-020",
+  "programmeId": "P-02",
+  "addedDate": "2026-04-21"
+ },
+ {
+  "memberId": "M-021",
+  "programmeId": "P-02",
+  "addedDate": "2026-05-03"
+ },
+ {
+  "memberId": "M-023",
+  "programmeId": "P-02",
+  "addedDate": "2026-05-09"
+ },
+ {
+  "memberId": "M-026",
+  "programmeId": "P-02",
+  "addedDate": "2026-05-15"
+ },
+ {
+  "memberId": "M-031",
+  "programmeId": "P-02",
+  "addedDate": "2026-05-21"
+ },
+ {
+  "memberId": "M-036",
+  "programmeId": "P-02",
+  "addedDate": "2026-06-03"
+ },
+ {
+  "memberId": "M-041",
+  "programmeId": "P-02",
+  "addedDate": "2026-06-09"
+ },
+ {
+  "memberId": "M-043",
+  "programmeId": "P-02",
+  "addedDate": "2026-06-15"
+ },
+ {
+  "memberId": "M-045",
+  "programmeId": "P-02",
+  "addedDate": "2026-06-21"
+ },
+ {
+  "memberId": "M-001",
+  "programmeId": "P-04",
+  "addedDate": "2026-03-02"
+ },
+ {
+  "memberId": "M-003",
+  "programmeId": "P-04",
+  "addedDate": "2026-03-09"
+ },
+ {
+  "memberId": "M-006",
+  "programmeId": "P-04",
+  "addedDate": "2026-03-16"
+ },
+ {
+  "memberId": "M-007",
+  "programmeId": "P-04",
+  "addedDate": "2026-03-23"
+ },
+ {
+  "memberId": "M-010",
+  "programmeId": "P-04",
+  "addedDate": "2026-04-02"
+ },
+ {
+  "memberId": "M-013",
+  "programmeId": "P-04",
+  "addedDate": "2026-04-09"
+ },
+ {
+  "memberId": "M-017",
+  "programmeId": "P-04",
+  "addedDate": "2026-04-16"
+ },
+ {
+  "memberId": "M-020",
+  "programmeId": "P-04",
+  "addedDate": "2026-04-23"
+ },
+ {
+  "memberId": "M-024",
+  "programmeId": "P-04",
+  "addedDate": "2026-05-02"
+ },
+ {
+  "memberId": "M-026",
+  "programmeId": "P-04",
+  "addedDate": "2026-05-09"
+ },
+ {
+  "memberId": "M-029",
+  "programmeId": "P-04",
+  "addedDate": "2026-05-16"
+ },
+ {
+  "memberId": "M-031",
+  "programmeId": "P-04",
+  "addedDate": "2026-05-23"
+ },
+ {
+  "memberId": "M-037",
+  "programmeId": "P-04",
+  "addedDate": "2026-06-02"
+ },
+ {
+  "memberId": "M-040",
+  "programmeId": "P-04",
+  "addedDate": "2026-06-09"
+ },
+ {
+  "memberId": "M-042",
+  "programmeId": "P-04",
+  "addedDate": "2026-06-16"
+ }
+]

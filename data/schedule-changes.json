@@ -1,0 +1,18 @@
+[
+ {
+  "programmeId": "P-05",
+  "effectiveDate": "2026-03-14",
+  "field": "room",
+  "from": "Activity Room 2",
+  "to": "Multi-Purpose Hall",
+  "reason": "Larger room for growing group"
+ },
+ {
+  "programmeId": "P-01",
+  "effectiveDate": "2026-06-11",
+  "field": "dayOfWeek",
+  "from": "Tue",
+  "to": "Thu",
+  "reason": "Tuesday slot reassigned to visiting physiotherapy vendor"
+ }
+]

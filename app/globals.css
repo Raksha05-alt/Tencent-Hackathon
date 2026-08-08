@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f3f5f0;
+  --color-surface: #ffffff;
+  --color-ink: #1f2a26;
+  --color-muted: #5c6b64;
+  --color-hairline: #dde3db;
+  --color-jade: #1f6e66;
+  --color-jade-deep: #164f4a;
+  --color-jade-soft: #e4f0ec;
+  --color-amber: #8a5a17;
+  --color-amber-soft: #f6ebd9;
+  --color-risk: #a93b32;
+  --color-risk-soft: #f7e7e4;
+
+  --font-display: var(--font-bricolage), "Bricolage Grotesque", sans-serif;
+  --font-body: var(--font-public-sans), "Public Sans", sans-serif;
+  --font-mono: var(--font-spline-mono), "Spline Sans Mono", monospace;
+}
+
+html {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  font-size: 16px;
+}
+
+body {
+  min-height: 100vh;
+}
+
+::selection {
+  background: var(--color-jade-soft);
+}
+
+h1, h2, h3 {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+}
+
+@keyframes trace-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.trace-in {
+  animation: trace-in 0.35s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .trace-in { animation: none; }
+  * { transition-duration: 0.01ms !important; }
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-jade);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+@media print {
+  nav, .no-print { display: none !important; }
+  body { background: white; }
+}

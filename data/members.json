@@ -1,0 +1,1044 @@
+[
+ {
+  "id": "M-001",
+  "name": "Ng Siew Eng",
+  "age": 74,
+  "gender": "F",
+  "languages": [
+   "Mandarin",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "tai chi",
+   "gardening"
+  ],
+  "emergencyContact": {
+   "name": "David Lim",
+   "relationship": "sibling",
+   "phone": "95823804"
+  },
+  "joinedDate": "2023-04-12",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-002",
+  "name": "Ramasamy s/o Muthu",
+  "age": 77,
+  "gender": "M",
+  "languages": [
+   "Tamil",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "walking",
+   "chess"
+  ],
+  "emergencyContact": {
+   "name": "Tan Wei Ming",
+   "relationship": "sibling",
+   "phone": "92829635"
+  },
+  "joinedDate": "2022-11-03",
+  "staffNotes": "Prefers morning activities, fetches grandson from school at 1pm.",
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-003",
+  "name": "Chan Kwok Wai",
+  "age": 69,
+  "gender": "M",
+  "languages": [
+   "Cantonese",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "karaoke",
+   "Singing"
+  ],
+  "emergencyContact": {
+   "name": "Faizal",
+   "relationship": "nephew",
+   "phone": "91717912"
+  },
+  "joinedDate": "2024-02-19",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-004",
+  "name": "Tan Ah Kow",
+  "age": 78,
+  "gender": "M",
+  "languages": [
+   "Hokkien",
+   "English"
+  ],
+  "livesAlone": true,
+  "mobility": "independent",
+  "interests": [
+   "mahjong",
+   "kopi with friends"
+  ],
+  "emergencyContact": {
+   "name": "Tan Wei Ming",
+   "relationship": "sibling",
+   "phone": "98344713"
+  },
+  "joinedDate": "2024-01-09",
+  "staffNotes": "Comes with the Tuesday group — always leaves together for lunch after. Quiet but sharp.",
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-005",
+  "name": "Sarojini d/o Pillai",
+  "age": 72,
+  "gender": "F",
+  "languages": [
+   "Tamil",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "cooking",
+   "needlework"
+  ],
+  "emergencyContact": {
+   "name": "Alice Wong",
+   "relationship": "daughter",
+   "phone": "93669773"
+  },
+  "joinedDate": "2023-08-21",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-006",
+  "name": "Ho Lai Peng",
+  "age": 80,
+  "gender": "F",
+  "languages": [
+   "Cantonese"
+  ],
+  "livesAlone": true,
+  "mobility": "walking-aid",
+  "interests": [
+   "Sewing",
+   "karaoke"
+  ],
+  "emergencyContact": {
+   "name": "Suresh",
+   "relationship": "nephew",
+   "phone": "99142151"
+  },
+  "joinedDate": "2022-06-30",
+  "staffNotes": "Daughter works shifts; comes by herself on the shuttle.",
+  "preferredChannel": "phone"
+ },
+ {
+  "id": "M-007",
+  "name": "Abdul Rahman bin Ismail",
+  "age": 75,
+  "gender": "M",
+  "languages": [
+   "Malay",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "walking",
+   "gardening"
+  ],
+  "emergencyContact": {
+   "name": "Priya",
+   "relationship": "nephew",
+   "phone": "94064766"
+  },
+  "joinedDate": "2023-01-17",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-008",
+  "name": "Fatimah Binte Osman",
+  "age": 81,
+  "gender": "F",
+  "languages": [
+   "Malay",
+   "English"
+  ],
+  "livesAlone": true,
+  "mobility": "walking-aid",
+  "interests": [
+   "cooking",
+   "sewing",
+   "Health talks"
+  ],
+  "emergencyContact": {
+   "name": "Priya",
+   "relationship": "nephew",
+   "phone": "96954546"
+  },
+  "joinedDate": "2022-03-08",
+  "staffNotes": "Husband admitted to hospital in April. Used to come almost every day with him.",
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-009",
+  "name": "Lee Chin Huat",
+  "age": 71,
+  "gender": "M",
+  "languages": [
+   "Hokkien",
+   "Mandarin"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "chess",
+   "mahjong"
+  ],
+  "emergencyContact": {
+   "name": "Faizal",
+   "relationship": "niece",
+   "phone": "96688401"
+  },
+  "joinedDate": "2024-05-02",
+  "staffNotes": null,
+  "preferredChannel": "sms"
+ },
+ {
+  "id": "M-010",
+  "name": "Mary D’Souza",
+  "age": 68,
+  "gender": "F",
+  "languages": [
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "knitting",
+   "reading"
+  ],
+  "emergencyContact": {
+   "name": "Suresh",
+   "relationship": "sibling",
+   "phone": "94383864"
+  },
+  "joinedDate": "2024-09-15",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-011",
+  "name": "Lim Boon Heng",
+  "age": 82,
+  "gender": "M",
+  "languages": [
+   "Hokkien"
+  ],
+  "livesAlone": true,
+  "mobility": "walking-aid",
+  "interests": [
+   "mahjong"
+  ],
+  "emergencyContact": {
+   "name": "Priya",
+   "relationship": "nephew",
+   "phone": "98247047"
+  },
+  "joinedDate": "2023-10-05",
+  "staffNotes": "Thursday is his market day with his daughter at Toa Payoh Lorong 8. Do not schedule visits then.",
+  "preferredChannel": "phone"
+ },
+ {
+  "id": "M-012",
+  "name": "Koh Bee Lian",
+  "age": 73,
+  "gender": "F",
+  "languages": [
+   "Mandarin",
+   "Hokkien"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "cooking",
+   "Cooking",
+   "karaoke"
+  ],
+  "emergencyContact": {
+   "name": "Faizal",
+   "relationship": "niece",
+   "phone": "99401458"
+  },
+  "joinedDate": "2023-03-11",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-013",
+  "name": "Wee Teck Seng",
+  "age": 79,
+  "gender": "M",
+  "languages": [],
+  "livesAlone": true,
+  "mobility": null,
+  "interests": [
+   "walking"
+  ],
+  "emergencyContact": null,
+  "joinedDate": "2025-01-20",
+  "staffNotes": "Registration form half-filled; son submitted it on his behalf. Follow up on languages.",
+  "preferredChannel": "phone"
+ },
+ {
+  "id": "M-014",
+  "name": "Aisha Binte Hamid",
+  "age": 66,
+  "gender": "F",
+  "languages": [
+   "Malay",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "cooking",
+   "handicraft"
+  ],
+  "emergencyContact": {
+   "name": "Suresh",
+   "relationship": "son",
+   "phone": "94506755"
+  },
+  "joinedDate": "2025-03-02",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-015",
+  "name": "Wong Siew Kuen",
+  "age": 71,
+  "gender": "F",
+  "languages": [
+   "Cantonese",
+   "Mandarin",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "sewing",
+   "handicraft",
+   "cooking"
+  ],
+  "emergencyContact": {
+   "name": "Jenny Koh",
+   "relationship": "daughter",
+   "phone": "99406528"
+  },
+  "joinedDate": "2022-08-14",
+  "staffNotes": "Was a tailor at Chinatown for 30 years. Offered to fix Mdm Rahim’s blouse last month — did it overnight, beautiful work.",
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-016",
+  "name": "Tan Ah Kau",
+  "age": 70,
+  "gender": "M",
+  "languages": [
+   "Hokkien",
+   "Mandarin"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "karaoke",
+   "walking"
+  ],
+  "emergencyContact": {
+   "name": "Faizal",
+   "relationship": "daughter",
+   "phone": "96712748"
+  },
+  "joinedDate": "2024-11-08",
+  "staffNotes": "NOT the same person as Tan Ah Kow (M-004) — different block, different family.",
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-017",
+  "name": "Cheong Mei Fong",
+  "age": 76,
+  "gender": "F",
+  "languages": [
+   "Cantonese",
+   "Mandarin"
+  ],
+  "livesAlone": true,
+  "mobility": "independent",
+  "interests": [
+   "mending clothes",
+   "karaoke"
+  ],
+  "emergencyContact": {
+   "name": "Nurul Huda",
+   "relationship": "niece",
+   "phone": "96431397"
+  },
+  "joinedDate": "2023-06-25",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-018",
+  "name": "Krishnan s/o Raju",
+  "age": 83,
+  "gender": "M",
+  "languages": [
+   "Tamil"
+  ],
+  "livesAlone": true,
+  "mobility": "wheelchair",
+  "interests": [
+   "chess",
+   "music"
+  ],
+  "emergencyContact": null,
+  "joinedDate": "2022-12-01",
+  "staffNotes": "Wheelchair via shuttle only. Very social once here.",
+  "preferredChannel": "phone"
+ },
+ {
+  "id": "M-019",
+  "name": "Goh Mei Lan",
+  "age": 75,
+  "gender": "F",
+  "languages": [
+   "Mandarin"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "mahjong",
+   "needlework"
+  ],
+  "emergencyContact": {
+   "name": "Suresh",
+   "relationship": "son",
+   "phone": "94248473"
+  },
+  "joinedDate": "2023-09-30",
+  "staffNotes": "Husband drops her off on his way to work.",
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-020",
+  "name": "Ong Guan Kim",
+  "age": 67,
+  "gender": "M",
+  "languages": [
+   "Hokkien",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "walking",
+   "photography"
+  ],
+  "emergencyContact": {
+   "name": "David Lim",
+   "relationship": "nephew",
+   "phone": "98587318"
+  },
+  "joinedDate": "2025-02-11",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-021",
+  "name": "Halimah Binte Yusof",
+  "age": 74,
+  "gender": "F",
+  "languages": [
+   "Malay"
+  ],
+  "livesAlone": true,
+  "mobility": "independent",
+  "interests": [
+   "sewing",
+   "cooking"
+  ],
+  "emergencyContact": {
+   "name": "Jenny Koh",
+   "relationship": "sibling",
+   "phone": "96983438"
+  },
+  "joinedDate": "2023-02-27",
+  "staffNotes": "Re-engaged after July call — daughter says the call meant a lot.",
+  "preferredChannel": "phone"
+ },
+ {
+  "id": "M-022",
+  "name": "Rahimah Binte Salleh",
+  "age": 79,
+  "gender": "F",
+  "languages": [
+   "Malay",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "walking-aid",
+  "interests": [
+   "Needlework",
+   "health talks"
+  ],
+  "emergencyContact": {
+   "name": "Suresh",
+   "relationship": "sibling",
+   "phone": "92145183"
+  },
+  "joinedDate": "2022-05-19",
+  "staffNotes": "Everyone calls her Mdm Rahim.",
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-023",
+  "name": "Foo Chee Keong",
+  "age": 65,
+  "gender": "M",
+  "languages": [
+   "Mandarin",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "tech",
+   "chess"
+  ],
+  "emergencyContact": {
+   "name": "Jenny Koh",
+   "relationship": "sibling",
+   "phone": "91719981"
+  },
+  "joinedDate": "2025-05-06",
+  "staffNotes": "Retired engineer; helps others with phones informally.",
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-024",
+  "name": "Devi d/o Subramaniam",
+  "age": 70,
+  "gender": "F",
+  "languages": [
+   "Tamil",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "sewing",
+   "gardening"
+  ],
+  "emergencyContact": {
+   "name": "Faizal",
+   "relationship": "daughter",
+   "phone": "92692431"
+  },
+  "joinedDate": "2024-03-18",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-025",
+  "name": "Yap Soon Hock",
+  "age": 84,
+  "gender": "M",
+  "languages": [
+   "Hokkien",
+   "Mandarin"
+  ],
+  "livesAlone": true,
+  "mobility": "walking-aid",
+  "interests": [
+   "mahjong",
+   "newspapers"
+  ],
+  "emergencyContact": null,
+  "joinedDate": "2022-04-22",
+  "staffNotes": "Hard of hearing on the left. Speak up when calling.",
+  "preferredChannel": "phone"
+ },
+ {
+  "id": "M-026",
+  "name": "Chng Poh Choo",
+  "age": 69,
+  "gender": "F",
+  "languages": [
+   "Hokkien",
+   "Mandarin"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "knitting",
+   "karaoke"
+  ],
+  "emergencyContact": {
+   "name": "Alice Wong",
+   "relationship": "nephew",
+   "phone": "93962956"
+  },
+  "joinedDate": "2024-07-29",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-027",
+  "name": "Chua Seng Huat",
+  "age": 80,
+  "gender": "M",
+  "languages": [
+   "Hokkien",
+   "Mandarin"
+  ],
+  "livesAlone": true,
+  "mobility": "independent",
+  "interests": [
+   "mahjong",
+   "kopi"
+  ],
+  "emergencyContact": {
+   "name": "David Lim",
+   "relationship": "son",
+   "phone": "98177992"
+  },
+  "joinedDate": "2023-11-14",
+  "staffNotes": "Best friends with Ah Kow since kampong days.",
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-028",
+  "name": "Zainab Binte Ahmad",
+  "age": 72,
+  "gender": "F",
+  "languages": [
+   "Malay"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "cooking",
+   "mending clothes"
+  ],
+  "emergencyContact": {
+   "name": "Alice Wong",
+   "relationship": "daughter",
+   "phone": "96779035"
+  },
+  "joinedDate": "2023-12-05",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-029",
+  "name": "Low Kim Seng",
+  "age": 77,
+  "gender": "M",
+  "languages": [],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "walking",
+   "chess"
+  ],
+  "emergencyContact": {
+   "name": "Suresh",
+   "relationship": "sibling",
+   "phone": "94633867"
+  },
+  "joinedDate": "2024-04-09",
+  "staffNotes": null,
+  "preferredChannel": "sms"
+ },
+ {
+  "id": "M-030",
+  "name": "Phua Geok Lin",
+  "age": 68,
+  "gender": "F",
+  "languages": [
+   "Hokkien",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "yoga",
+   "walking"
+  ],
+  "emergencyContact": {
+   "name": "Tan Wei Ming",
+   "relationship": "nephew",
+   "phone": "93104496"
+  },
+  "joinedDate": "2024-08-23",
+  "staffNotes": "Away in Perth visiting son most of July.",
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-031",
+  "name": "Tay Hwee Choo",
+  "age": 75,
+  "gender": "F",
+  "languages": [
+   "Mandarin"
+  ],
+  "livesAlone": true,
+  "mobility": "independent",
+  "interests": [
+   "calligraphy",
+   "sewing"
+  ],
+  "emergencyContact": {
+   "name": "Nurul Huda",
+   "relationship": "niece",
+   "phone": "92852864"
+  },
+  "joinedDate": "2023-05-15",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-032",
+  "name": "Mohamed Farid bin Hassan",
+  "age": 69,
+  "gender": "M",
+  "languages": [
+   "Malay",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "walking",
+   "photography"
+  ],
+  "emergencyContact": {
+   "name": "Nurul Huda",
+   "relationship": "niece",
+   "phone": "98585248"
+  },
+  "joinedDate": "2025-04-14",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-033",
+  "name": "Quek Siok Hwa",
+  "age": 78,
+  "gender": "F",
+  "languages": [
+   "Hokkien",
+   "Mandarin"
+  ],
+  "livesAlone": true,
+  "mobility": "independent",
+  "interests": [
+   "karaoke",
+   "cooking"
+  ],
+  "emergencyContact": {
+   "name": "Alice Wong",
+   "relationship": "daughter",
+   "phone": "99876200"
+  },
+  "joinedDate": "2022-09-26",
+  "staffNotes": "Was away after knee op in June; coordinator called mid-July, back since 20 Jul and doing well.",
+  "preferredChannel": "phone"
+ },
+ {
+  "id": "M-034",
+  "name": "Seetoh Kok Leong",
+  "age": 73,
+  "gender": "M",
+  "languages": [
+   "Cantonese",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "calligraphy",
+   "chess"
+  ],
+  "emergencyContact": {
+   "name": "Suresh",
+   "relationship": "niece",
+   "phone": "99882927"
+  },
+  "joinedDate": "2024-06-17",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-035",
+  "name": "Nur Aini Binte Kassim",
+  "age": 67,
+  "gender": "F",
+  "languages": [
+   "Malay",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "Handicraft",
+   "cooking"
+  ],
+  "emergencyContact": {
+   "name": "Alice Wong",
+   "relationship": "son",
+   "phone": "95621435"
+  },
+  "joinedDate": "2025-06-08",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-036",
+  "name": "Pang Ah Moy",
+  "age": 85,
+  "gender": "F",
+  "languages": [
+   "Hokkien"
+  ],
+  "livesAlone": true,
+  "mobility": "walking-aid",
+  "interests": [
+   "sewing",
+   "karaoke"
+  ],
+  "emergencyContact": null,
+  "joinedDate": "2022-02-14",
+  "staffNotes": "Oldest regular. Granddaughter checks in weekly.",
+  "preferredChannel": "phone"
+ },
+ {
+  "id": "M-037",
+  "name": "Vellu s/o Karuppiah",
+  "age": 71,
+  "gender": "M",
+  "languages": [
+   "Tamil",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "walking",
+   "music"
+  ],
+  "emergencyContact": {
+   "name": "Nurul Huda",
+   "relationship": "sibling",
+   "phone": "94574128"
+  },
+  "joinedDate": "2024-10-30",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-038",
+  "name": "Sim Lay Hoon",
+  "age": 66,
+  "gender": "F",
+  "languages": [
+   "Mandarin",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "yoga",
+   "sewing"
+  ],
+  "emergencyContact": {
+   "name": "Alice Wong",
+   "relationship": "sibling",
+   "phone": "92309176"
+  },
+  "joinedDate": "2025-01-05",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-039",
+  "name": "Teo Kah Wah",
+  "age": 76,
+  "gender": "M",
+  "languages": [
+   "Hokkien",
+   "Mandarin"
+  ],
+  "livesAlone": false,
+  "mobility": null,
+  "interests": [
+   "mahjong",
+   "newspapers"
+  ],
+  "emergencyContact": {
+   "name": "Hassan",
+   "relationship": "sibling",
+   "phone": "99202461"
+  },
+  "joinedDate": "2023-07-07",
+  "staffNotes": null,
+  "preferredChannel": "sms"
+ },
+ {
+  "id": "M-040",
+  "name": "Leong Yoke Lan",
+  "age": 74,
+  "gender": "F",
+  "languages": [
+   "Cantonese"
+  ],
+  "livesAlone": true,
+  "mobility": "independent",
+  "interests": [
+   "knitting",
+   "karaoke",
+   "crochet"
+  ],
+  "emergencyContact": {
+   "name": "Hassan",
+   "relationship": "nephew",
+   "phone": "93549875"
+  },
+  "joinedDate": "2023-04-03",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-041",
+  "name": "Goh Teck Meng",
+  "age": 70,
+  "gender": "M",
+  "languages": [],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "walking"
+  ],
+  "emergencyContact": {
+   "name": "Priya",
+   "relationship": "daughter",
+   "phone": "93801725"
+  },
+  "joinedDate": "2025-07-01",
+  "staffNotes": "New member, brought by neighbour M-020.",
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-042",
+  "name": "Kamala d/o Naidu",
+  "age": 78,
+  "gender": "F",
+  "languages": [
+   "Tamil"
+  ],
+  "livesAlone": true,
+  "mobility": "walking-aid",
+  "interests": [
+   "needlework",
+   "health talks"
+  ],
+  "emergencyContact": {
+   "name": "Priya",
+   "relationship": "sibling",
+   "phone": "96686401"
+  },
+  "joinedDate": "2022-10-11",
+  "staffNotes": null,
+  "preferredChannel": "phone"
+ },
+ {
+  "id": "M-043",
+  "name": "Chia Beng Soon",
+  "age": 72,
+  "gender": "M",
+  "languages": [
+   "Hokkien",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "calligraphy",
+   "photography"
+  ],
+  "emergencyContact": {
+   "name": "Michelle Tan",
+   "relationship": "niece",
+   "phone": "97584770"
+  },
+  "joinedDate": "2024-12-12",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-044",
+  "name": "Rosnah Binte Jaafar",
+  "age": 68,
+  "gender": "F",
+  "languages": [
+   "Malay",
+   "English"
+  ],
+  "livesAlone": false,
+  "mobility": "independent",
+  "interests": [
+   "sewing",
+   "cooking"
+  ],
+  "emergencyContact": {
+   "name": "David Lim",
+   "relationship": "nephew",
+   "phone": "97890569"
+  },
+  "joinedDate": "2024-01-28",
+  "staffNotes": null,
+  "preferredChannel": "whatsapp"
+ },
+ {
+  "id": "M-045",
+  "name": "Auw Cheng Lock",
+  "age": 81,
+  "gender": "M",
+  "languages": [
+   "Hokkien",
+   "Mandarin"
+  ],
+  "livesAlone": false,
+  "mobility": "walking-aid",
+  "interests": [
+   "newspapers",
+   "chess"
+  ],
+  "emergencyContact": null,
+  "joinedDate": "2022-07-20",
+  "staffNotes": "Comes with wife (not a member). Likes the quiet corner.",
+  "preferredChannel": "phone"
+ }
+]

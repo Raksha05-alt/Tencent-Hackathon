@@ -1,0 +1,82 @@
+[
+ {
+  "id": "P-01",
+  "name": "Mahjong Social",
+  "category": "social",
+  "dayOfWeek": "Thu",
+  "startTime": "14:00",
+  "room": "Activity Room 2",
+  "capacity": 16,
+  "active": true
+ },
+ {
+  "id": "P-02",
+  "name": "Chair Yoga",
+  "category": "physical",
+  "dayOfWeek": "Mon",
+  "startTime": "10:00",
+  "room": "Multi-Purpose Hall",
+  "capacity": 15,
+  "active": true
+ },
+ {
+  "id": "P-03",
+  "name": "Calligraphy Class",
+  "category": "creative",
+  "dayOfWeek": "Wed",
+  "startTime": "15:00",
+  "room": "Activity Room 1",
+  "capacity": 12,
+  "active": true
+ },
+ {
+  "id": "P-04",
+  "name": "Cooking Together",
+  "category": "social",
+  "dayOfWeek": "Fri",
+  "startTime": "11:00",
+  "room": "Kitchen Studio",
+  "capacity": 12,
+  "active": true
+ },
+ {
+  "id": "P-05",
+  "name": "Karaoke Afternoon",
+  "category": "social",
+  "dayOfWeek": "Sat",
+  "startTime": "14:00",
+  "room": "Multi-Purpose Hall",
+  "capacity": 25,
+  "active": true
+ },
+ {
+  "id": "P-06",
+  "name": "Brisk Walking Group",
+  "category": "physical",
+  "dayOfWeek": "Tue",
+  "startTime": "07:30",
+  "room": "Void Deck (meet)",
+  "capacity": 20,
+  "active": true
+ },
+ {
+  "id": "P-07",
+  "name": "Tech Help Clinic",
+  "category": "learning",
+  "dayOfWeek": "Wed",
+  "startTime": "10:00",
+  "room": "Activity Room 1",
+  "capacity": 8,
+  "active": true
+ },
+ {
+  "id": "P-08",
+  "name": "Health Talk",
+  "category": "learning",
+  "dayOfWeek": "Wed",
+  "startTime": "14:00",
+  "room": "Multi-Purpose Hall",
+  "capacity": 30,
+  "active": true
+ }
+]
