@@ -7,9 +7,6 @@ import { memberById } from '../lib/data';
 import { useStore } from '../lib/store';
 import Avatar from './Avatar';
 
-import VoiceNotePlayer from './VoiceNotePlayer';
-import PhoneticGuide from './PhoneticGuide';
-
 const CHANNEL_LABEL = { whatsapp: 'WhatsApp', phone: 'Phone call', sms: 'SMS' } as const;
 
 export default function DraftCard({ draft }: { draft: OutreachDraft }) {
@@ -22,7 +19,7 @@ export default function DraftCard({ draft }: { draft: OutreachDraft }) {
   const settled = draft.status !== 'pending';
 
   return (
-    <article className="rounded-lg border border-hairline bg-surface p-5 shadow-sm">
+    <article className="rounded-lg border border-hairline bg-surface p-5">
       <header className="mb-3 flex items-center gap-3">
         <Avatar name={member.name} size={36} />
         <div className="min-w-0 flex-1">
@@ -59,24 +56,11 @@ export default function DraftCard({ draft }: { draft: OutreachDraft }) {
         <p className="whitespace-pre-wrap rounded-md bg-paper p-3 text-[15px] leading-relaxed">{text}</p>
       )}
 
-      {/* Voice Note Waveform Audio Player */}
-      {!editing && (
-        <VoiceNotePlayer
-          text={text}
-          language={draft.language}
-          channel={draft.channel}
-          memberId={draft.memberId}
-        />
-      )}
-
       {draft.englishGloss && !editing && (
         <p className="mt-2 border-l-2 border-hairline pl-3 text-[15px] italic leading-relaxed text-muted">
           {draft.englishGloss}
         </p>
       )}
-
-      {/* Phonetic & Dialect Guide */}
-      {!editing && <PhoneticGuide language={draft.language} />}
 
       <p className="mt-3 text-sm text-muted">
         <span className="font-semibold text-ink">Why this framing:</span> {draft.rationale}
@@ -137,4 +121,3 @@ export default function DraftCard({ draft }: { draft: OutreachDraft }) {
     </article>
   );
 }
-
