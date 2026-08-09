@@ -199,21 +199,3 @@ export function playSynthesizedVoiceTone(durationSec = 10, onComplete?: () => vo
     return () => clearTimeout(timer);
   }
 }
-
-// Optional API Keys storage helpers (OpenAI / ElevenLabs)
-const API_KEY_STORAGE_KEY = 'silverops_tts_api_key';
-
-export function getStoredTtsApiKey(): { provider: string; key: string } | null {
-  if (typeof window === 'undefined') return null;
-  try {
-    const raw = localStorage.getItem(API_KEY_STORAGE_KEY);
-    return raw ? JSON.parse(raw) : null;
-  } catch {
-    return null;
-  }
-}
-
-export function setStoredTtsApiKey(provider: string, key: string) {
-  if (typeof window === 'undefined') return;
-  localStorage.setItem(API_KEY_STORAGE_KEY, JSON.stringify({ provider, key }));
-}
